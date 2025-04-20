@@ -61,5 +61,4 @@ while True:
         break
 
     else:
-        print("Invalid choice. Please try again.")
- # type: ignore
+        print("Invalid choice. Pleas e try again.") # type: ignore
